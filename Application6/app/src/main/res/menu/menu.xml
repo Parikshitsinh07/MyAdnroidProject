@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_red"
+        android:title="Red">
+        <menu>
+            <item
+                android:id="@+id/submenu_red_dark"
+                android:title="Dark(Red)"
+
+                />
+            <item
+                android:id="@+id/submenu_red_light"
+                android:title="Light(Red)" />
+
+        </menu>
+
+    </item>
+
+
+
+    <item
+        android:id="@+id/menu_green"
+        android:title="Green" >
+        <menu>
+            <item
+                android:id="@+id/submenu_green_dark"
+                android:title="Dark(Green)"
+                />
+            <item
+                android:id="@+id/submene_green_light"
+                android:title="Light(Green)"
+                />
+
+
+        </menu>
+
+    </item>
+
+    <item
+        android:id="@+id/menu_blue"
+        android:title="Blue">
+        <menu>
+        <item
+            android:id="@+id/submenu_blue_dark"
+            android:title="Dark(Blue)"
+
+            />
+            <item
+                android:id="@+id/submenu_blue_light"
+                android:title="Light(Blue)"
+
+                />
+
+        </menu>>
+
+    </item>
+
+    <item
+        android:id="@+id/menu_yellow"
+        android:title="Yellow">
+        <menu>
+            <item
+                android:id="@+id/submenu_yellow_dark"
+                android:title="Dark(Yellow)"
+
+                />
+            <item
+                android:id="@+id/submenu_yellow_light"
+                android:title="Light(Yellow)"
+
+                />
+        </menu>
+    </item>
+
+
+</menu>
