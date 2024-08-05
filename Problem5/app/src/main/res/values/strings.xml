@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Problem5</string>
+    <string-array name="Parikshit">
+        <item>iphone</item>
+        <item>samsung</item>
+        <item>oneplus</item>
+        <item>vivo</item>
+        <item>Motorola</item>
+        <item>redmi</item>
+        <item>jio</item>
+    </string-array>
+</resources>
